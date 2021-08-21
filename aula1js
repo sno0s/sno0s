@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <style>
+      .musica {
+        color: blueviolet;
+        width: 200px;
+      }
+      .snoopy {
+        width: 50px;
+        height: 57px;
+      }
+      .titulo {
+        font-family: Arial;
+        color: gray;
+        font-size: 10px;
+      }
+      .codigo {
+        font-size: 7px;
+        color: indianred;
+      }
+    </style>
+    <meta charset="utf-8" />
+    <title>CursoJS</title>
+    <link
+      rel="icon"
+      href="https://github.com/sno0s/sno0s/blob/main/Composi%C3%A7%C3%A3o%201_00000.png?raw=true"
+    />
+  </head>
+  <body>
+    <div class="titulo">
+      <h1>
+        <ins><sup>2</sup><q>Snoopy</q><sub>2</sub></ins> logo abaixo
+        <del style="color: green"><span style="color: gray">:P</span></del>
+      </h1>
+    </div>
+    <a href="https://www.youtube.com/watch?v=3xi8ePsg_K8" target="_blank">
+      <img
+        class="snoopy"
+        src="https://blogdonori.files.wordpress.com/2013/04/snoopy.gif"
+        alt="Snoopy"
+      />
+    </a>
+    <hr />
+    <p dir="ltr">
+      Esta palavra arábica <bdi>ARABIC_PLACEHOLDER</bdi>
+      <span style="color: blue"> é automaticamente voltada da direita</span>
+    </p>
+
+    <p>
+      <b>Lorem</b> <strong>ipsum</strong> <i>dolor</i> <em>sit</em> amet
+      consectetur adipisicing elit. Voluptas nulla doloribus reiciendis sint,
+      odit quibusdam minus mollitia temporibus natus adipisci libero quam
+      maxime, maiores repellendus! Dolore perspiciatis dicta in at.
+    </p>
+    <hr />
+
+    <p class="musica">
+      <a href="https://www.youtube.com/watch?v=3xi8ePsg_K8" target="_blank">
+        então tenta ser breve por nós, por nós deixei as coisas todas pra vc
+        pegar la em casa que voce jura não voltar que voce sempre jura não
+        voltar e o pior é que a gente ja sabe que isso vai terminar meio tarde
+        meu bem então tenta ser breve por nós
+      </a>
+    </p>
+    <pre class="codigo">
+.musica {
+color: blueviolet;
+width: 200px;
+}
+.snoopy {
+width: 50px;
+height: 57px;
+}
+.titulo {
+font-family: Arial;
+color: gray;
+font-size: 10px;
+}
+    </pre>
+  </body>
+</html>
